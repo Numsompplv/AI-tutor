@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,500;12..96,600;12..96,700;12..96,800&family=Instrument+Sans:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --champa-cream:        #FFFBEB;
+  --champa-petal:        #FDE68A;
+  --champa-bloom:        #F59E0B;
+  --champa-amber:        #D97706;
+  --champa-brown:        #78350F;
+  --champa-night:        #1C0A00;
+  --champa-night-soft:   #2D1200;
+}
+
+/* Base font */
+html, body {
+  font-family: 'Instrument Sans', sans-serif;
+  background-color: var(--champa-cream);
+  color: var(--champa-brown);
+}
+
+/* Heading font */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Bricolage Grotesque', sans-serif;
+  letter-spacing: -0.025em;
+}
