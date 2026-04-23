@@ -8,11 +8,11 @@ This project was developed as a Bachelor's thesis at Eszterházy Károly Catholi
 
 ## Preview
 
-![Dashboard Screenshot](docs/screenshots/dashboard.png)
+![Dashboard Screenshot](photos/dashboard.png)
 
 *Student dashboard showing notebooks organized by course or topic.*
 
-![Chat Interface Screenshot](docs/screenshots/chat.png)
+![Chat Interface Screenshot](photos/free.png)
 
 *Chat interface in Upload Mode with source citations from the uploaded document.*
 
